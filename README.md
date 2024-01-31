@@ -1,0 +1,1 @@
+This project aims to categorize emotions I.e., positive and negative tweets, and create supervised learning models to distinguish between the wide range of tweets. The objective is to understand positive and negative emotions from the tweets and polarize over a big amount of information
